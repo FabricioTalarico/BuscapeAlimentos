@@ -1,4 +1,4 @@
-#Buscapé Alimentos
+#Gerenciador  de Geladeira <i>FriDiv</i> 
 Projeto do Curso <b><i>ST062</b></i> (Engenharia de Software III)  
 <br /><br />
 
