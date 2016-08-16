@@ -18,4 +18,4 @@ Projeto do Curso <b><i>ST062</b></i> (Engenharia de Software III)
 <i>Gerente de Configuração</i>
 
 <b>Rafael Mazzoli Camargo</b> <br />
-<i>Trainee</i>
+<i>Desenvolvedor</i>
